@@ -137,6 +137,12 @@ nav .fa-solid {
     margin: 
 }
 
+.price {
+    font-weight: 400;
+    font-size: 24px;
+}
+
+
 .rating {
     display: flex;
     align-items: center;
@@ -146,6 +152,10 @@ nav .fa-solid {
 }
 .rating p {
     padding-left: 10px;
+}
+
+.product-description {
+    padding: 0px 119px 10px 0px;
 }
 
 /* ending style  */
@@ -174,6 +184,25 @@ nav .fa-solid {
 
 .footer {
     background: #0A0826;
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    
+    
+}
+.footer-text {
+    color: #FFFFFF;
+    padding-top: 50px;
+   
+
+}
+.footer-text h2 {
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.footer-text .footer-icon .fa-brands {
+    margin-right: 16px;
 }
 
 /* responsive style  */
