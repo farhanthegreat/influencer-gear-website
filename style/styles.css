@@ -8,7 +8,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 120px 87px;
+    margin: 0px 87px 100px 87px;
 }
 .header-title {
     color: #3A3A3A;
